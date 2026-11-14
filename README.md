@@ -23,7 +23,7 @@ Este projeto consiste em um **Jogo da Velha** interativo desenvolvido em **Pytho
 1. Abra o terminal (Prompt de Comando, PowerShell ou Terminal do VS Code) na pasta onde está o arquivo `jogo.py`.
 2. Execute o seguinte comando:
    ```bash
-   python jogo.py
+   py jogo.py
    ```
 3. Utilize o menu interativo no terminal escolhendo os números de 1 a 4 para navegar entre as opções de jogo, placar, regras e saída.
 
